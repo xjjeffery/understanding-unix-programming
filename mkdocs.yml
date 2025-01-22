@@ -158,3 +158,4 @@ extra_javascript:
   # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 nav:
+  - index.md
